@@ -5,6 +5,7 @@ https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+http://111.119.207.209:15700/Sub?type=m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
 https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
